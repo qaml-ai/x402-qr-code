@@ -20,7 +20,8 @@
     "x402-ai": "file:../x402-ai",
     "x402-cdp": "file:../x402-cdp",
     "x402-openapi": "file:../x402-openapi",
-    "zod": "^3.25.76"
+    "zod": "^3.25.76",
+    "x402-stripe": "file:../x402-stripe"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250312.0",
